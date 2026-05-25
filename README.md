@@ -22,7 +22,7 @@ The website showcases my profile, skills, projects, and contact information, whi
 - GitHub Pages deployment
 - Docker containerization
 - Jenkins CI/CD pipeline
-- Automated build and deployment workflow
+- Jenkins pipeline for Docker image build and container execution
 
 ## Live Website
 https://tanushree-paul.github.io/Portfolio/
@@ -97,7 +97,7 @@ docker build -t portfolio .
 docker run -p 8080:80 portfolio
 
 ## Jenkins Pipeline
-The Jenkins pipeline automates:
+The Jenkins pipeline performs:
 1. Pulling latest code from GitHub
 2. Building Docker image
 3. Running Docker container
