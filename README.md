@@ -1,4 +1,4 @@
-# Portfolio Website with CI/CD Pipeline
+# Portfolio Website
 
 This project is a personal portfolio website integrated using GitHub.
 
