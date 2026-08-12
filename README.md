@@ -25,8 +25,8 @@ https://tanushree-paul.github.io/Portfolio/
 
 ## Project Setup
 portfolio/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+- index.html
+- style.css
+- script.js
+- README.md
 
